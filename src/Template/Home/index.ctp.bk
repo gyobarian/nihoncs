@@ -1,0 +1,5 @@
+<div>
+    <h1>Helo Wrold!</h1>
+    <p class="text-red"><?= $teststr ?></p>
+    <p class="text-red"><?= $users->id ?>：<?= $users->username ?></p>
+</div>
